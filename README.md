@@ -1,2 +1,2 @@
 # Algorithm Fundamentals
-Repository for the Monthly Algorithm Fundamentals Workshops
+Repository for the monthly Algorithm Fundamentals workshops hosted by WiCSE.
