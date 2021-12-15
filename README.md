@@ -13,5 +13,5 @@ Repository for the monthly Algorithm Fundamentals workshops hosted by WiCSE.
 - Main: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - Bonus: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 
-## Linked Lists - Jan 2021
+## Linked Lists - Jan 2022
 - Warm Up: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
