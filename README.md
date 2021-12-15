@@ -8,5 +8,10 @@ Repository for the monthly Algorithm Fundamentals workshops hosted by WiCSE.
 - Main: [Count and Say](https://leetcode.com/problems/count-and-say/)
 - Bonus: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
 
-## Arrays - Nov 2021
+## Arrays - Dec 2021
 - Warm Up: [Best Time to Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- Main: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- Bonus: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+## Linked Lists - Jan 2021
+- Warm Up: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
